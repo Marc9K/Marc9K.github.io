@@ -1,0 +1,488 @@
+{
+  "xp": [
+    {
+      "title": "Rural 🧑‍🌾 tracking",
+      "year": 2020,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "Windows",
+          "appendix": "windows10"
+        },
+        {
+          "title": "Android™",
+          "appendix": "android"
+        },
+        {
+          "title": "iOS",
+          "appendix": "ios"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Spring Boot",
+          "appendix": "spring",
+          "url": "https://spring.io/projects/spring-boot"
+        },
+        {
+          "title": "WPF",
+          "appendix": " ",
+          "url": "https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/"
+        },
+        {
+          "title": "C#",
+          "appendix": "csharp"
+        },
+        {
+          "title": "Flutter",
+          "logo": "flutter",
+          "url": "https://flutter.dev/brand"
+        },
+        {
+          "title": "Dart",
+          "appendix": "dart",
+          "url": "https://dart.dev"
+        }
+      ],
+      "description": "I developed a system for collecting location data from employees in rural areas with limited or no internet access. This included creating a mobile tracking app, a local collector server, and a desktop data consolidator app. The main goals were ease of use and preventing unauthorized employees from altering data.",
+      "screenshots": {
+        "directory": "",
+        "quantity": 0,
+        "format": ""
+      }
+    },
+    {
+      "title": "Business management",
+      "year": 2021,
+      "team": 3,
+      "platforms": [
+        {
+          "title": "Android™",
+          "appendix": "android"
+        },
+        {
+          "title": "iOS",
+          "appendix": "ios"
+        }
+      ],
+      "stack": [
+        {
+          "title": "React Native",
+          "appendix": "react"
+        },
+        {
+          "title": "Figma",
+          "appendix": "figma"
+        },
+        {
+          "title": "WatermelonDB",
+          "appendix": " ",
+          "url": "https://watermelondb.dev/"
+        },
+        {
+          "title": "magnus UI",
+          "appendix": " ",
+          "url": "https://magnus-ui.com"
+        }
+      ],
+      "description": "This app aids in managing multiple single-person businesses by handling stock and service management, financial planning, and analysis, as well as CRM. I developed specifications with the client, produced a concept prototype focused on UX, and hired a designer. My role involved facilitating communication with the client, resolving issues, and assisting with several functional design elements. I also ensured proper access to native libraries across platforms and designed the database schema and queries.",
+      "github": "https://github.com/Marc9K/BooKeeping",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/bookeep/",
+        "quantity": 3,
+        "format": ".png"
+      }
+    },
+    {
+      "title": "Store Scraper ⛏️",
+      "year": 2023,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "Node.js®",
+          "appendix": "nodedotjs"
+        }
+      ],
+      "stack": [
+        {
+          "title": "JavaScript",
+          "appendix": "javascript"
+        },
+        {
+          "title": "Puppeteer",
+          "appendix": "puppeteer",
+          "url": "https://pptr.dev"
+        },
+        {
+          "title": "GPT",
+          "appendix": "openai",
+          "url": "https://openai.com/api/"
+        },
+        {
+          "title": "JSON",
+          "appendix": "json"
+        }
+      ],
+      "description": "I identified main chains in the UK with overlapping base product categories and web stores. After analyzing their HTML, I created an algorithm to extract complete product data. The system allows for parallel scraping of several separate stores. I optimized the process to evade robot-blocking mechanisms. Ingredients, units, and prices are parsed by AI into descriptive trees.",
+      "github": "https://github.com/Marc9K/StoreScraper",
+      "screenshots": {
+        "directory": "",
+        "quantity": 0,
+        "format": ""
+      }
+    },
+    {
+      "title": "Legal Aid Finder 🔍",
+      "year": 2023,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "iOS",
+          "appendix": "ios"
+        },
+        {
+          "title": "macOS",
+          "appendix": "macos"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Swift",
+          "appendix": "swift"
+        },
+        {
+          "title": "SwiftUI",
+          "appendix": " "
+        },
+        {
+          "title": "Swift Data",
+          "appendix": "apple",
+          "url": "https://developer.apple.com/documentation/swiftdata"
+        },
+        {
+          "title": "CloudKit",
+          "appendix": "icloud",
+          "url": "https://developer.apple.com/icloud/cloudkit/"
+        },
+        {
+          "title": "MapKit",
+          "appendix": " ",
+          "url": "https://developer.apple.com/documentation/mapkit"
+        },
+        {
+          "title": "CallKit",
+          "appendix": " ",
+          "url": "https://developer.apple.com/documentation/callkit"
+        }
+      ],
+      "description": "Developed a comprehensive utility app to manage legal aid provider contacts, integrating native Kits for enhanced functionality. Designed to improve access to legal aid services through a user-friendly interface. Successfully helped several people easily find a solicitor. Dealt with UI bottleneck due to large list of providers.",
+      "github": "https://github.com/Marc9K/CallBook",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/call/",
+        "quantity": 5,
+        "format": ".png"
+      },
+      "appStore": "https://apps.apple.com/gb/app/callbook/id6473545364",
+      "macAppStore": "https://apps.apple.com/gb/app/callbook/id6473545364"
+    },
+    {
+      "title": "Transcriber 💬",
+      "year": 2024,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "macOS",
+          "appendix": "macos"
+        },
+        {
+          "title": "Windows",
+          "appendix": "windows10"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Python",
+          "appendix": "python"
+        },
+        {
+          "title": "GPT",
+          "appendix": "openai",
+          "url": "https://openai.com/api/"
+        },
+        {
+          "title": "Whisper",
+          "appendix": "openai",
+          "url": "https://github.com/openai/whisper"
+        }
+      ],
+      "description": "Designed a solution for a wellness podcaster. The app is aimed at: \nBroadening following base to readers -- transcribes a podcast, creates a clean article and a summary post; \nImproving educational experiences retention -- transcribes long conferences and cleans them from uninformative speech.\nI ensured compatibility with client's hardware and performance expectations. Programmed a sensible converter into OpenAI's supported formats. Kept AI processing transparent to allow creative adjustments.",
+      "github": "https://github.com/Marc9K/SpeechToText",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/trans/",
+        "quantity": 1,
+        "format": ".png"
+      }
+    },
+    {
+      "title": "Group Management Bot 🤖",
+      "year": 2024,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "AWS",
+          "appendix": "amazonwebservices",
+          "url": "https://aws.amazon.com"
+        },
+        {
+          "title": "Telegram",
+          "appendix": "telegram",
+          "url": "https://telegram.org"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Python",
+          "appendix": "python"
+        },
+        {
+          "title": "EC2",
+          "appendix": "amazonec2",
+          "url": "https://aws.amazon.com/ec2/"
+        },
+        {
+          "title": "Firebase",
+          "logo": "firebase",
+          "url": "https://firebase.google.com/brand-guidelines/"
+        }
+      ],
+      "description": "Designed a Telegram bot for community management, automating moderation and member interaction to foster a safe communication environment. Successfully integrated and has decreased required human oversight.",
+      "github": "https://github.com/Marc9K/moderatorBot.git",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/bot/",
+        "quantity": 1,
+        "format": ".jpeg"
+      }
+    },
+    {
+      "title": "Product viewer",
+      "year": 2023,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "macOS",
+          "appendix": "macos"
+        },
+        {
+          "title": "iOS",
+          "appendix": "ios"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Swift",
+          "appendix": "swift"
+        },
+        {
+          "title": "SwiftUI",
+          "appendix": " "
+        },
+        {
+          "title": "GPT",
+          "appendix": "openai",
+          "url": "https://openai.com/api/"
+        }
+      ],
+      "description": "I created an app to assist users in shopping for healthier options by comparing ingredients, identifying unwanted substances, and performing complex filtering on products from an external database.",
+      "github": "https://github.com/Marc9K/Ingridients",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/ingrid/",
+        "quantity": 3,
+        "format": ".png"
+      }
+    },
+    {
+      "title": "This website",
+      "year": 2024,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "WEB",
+          "appendix": "htmx"
+        }
+      ],
+      "stack": [
+        {
+          "title": "TypeScript",
+          "appendix": "typescript"
+        },
+        {
+          "title": "React",
+          "appendix": "react"
+        },
+        {
+          "title": "Pkl",
+          "appendix": " ",
+          "url": "https://pkl-lang.org/"
+        },
+        {
+          "title": "GitHub Pages",
+          "appendix": "githubpages"
+        }
+      ],
+      "description": "",
+      "github": "https://github.com/Marc9K/Marc9K.github.io",
+      "screenshots": {
+        "directory": "",
+        "quantity": 0,
+        "format": ""
+      }
+    },
+    {
+      "title": "Coach ↔️ client communication tool",
+      "year": 2022,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "iOS",
+          "appendix": "ios"
+        },
+        {
+          "title": "macOS",
+          "appendix": "macos"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Swift",
+          "appendix": "swift"
+        },
+        {
+          "title": "SwiftUI",
+          "appendix": " "
+        },
+        {
+          "title": "CloudKit",
+          "appendix": "icloud",
+          "url": "https://developer.apple.com/icloud/cloudkit/"
+        },
+        {
+          "title": "CoreData",
+          "appendix": " "
+        }
+      ],
+      "description": "I created an app that facilitates the exchange of information through Questionnaires and Advice. Coaches can predefine a set of questions (text, number, or options) which clients can regularly answer for statistics. Advice comprises actions clients should repeat according to directions.",
+      "github": "https://github.com/Marc9K/Advice",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/ad/",
+        "quantity": 3,
+        "format": ".PNG"
+      }
+    },
+    {
+      "title": "Remote Grow 🌱",
+      "year": 2019,
+      "team": 3,
+      "platforms": [
+        {
+          "title": "iOS",
+          "appendix": "ios"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Swift",
+          "appendix": "swift"
+        },
+        {
+          "title": "SwiftUI",
+          "appendix": " "
+        },
+        {
+          "title": "Modbus",
+          "appendix": " ",
+          "url": "https://en.wikipedia.org/wiki/Modbus"
+        }
+      ],
+      "description": "I developed a mobile application for restaurant greenhouse systems that allows users to monitor and adjust environmental conditions such as lighting and temperature. I worked in a team and also assisted in UI design.",
+      "github": "https://github.com/Marc9K/GrowSystem",
+      "screenshots": {
+        "directory": "./src/assets/screenshots/grow/",
+        "quantity": 2,
+        "format": ".jpeg"
+      }
+    },
+    {
+      "title": "Team builder",
+      "year": 2022,
+      "team": 6,
+      "platforms": [
+        {
+          "title": "WEB",
+          "appendix": "htmx"
+        }
+      ],
+      "stack": [
+        {
+          "title": "C#",
+          "appendix": "csharp"
+        },
+        {
+          "title": "Blazor",
+          "appendix": "blazor",
+          "url": "https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"
+        }
+      ],
+      "description": "Implemented full stack real time notification solution for web tool aiming to form effective teams in large corporations. Effectively gathered requirements and learnt the codebase in a 7 people team. Delivered production ready solution in a short time span.",
+      "github": "https://github.com/Marc9K/GrowSystem",
+      "screenshots": {
+        "directory": "/",
+        "quantity": 0,
+        "format": ""
+      }
+    },
+    {
+      "title": "Meeting summariser 💬",
+      "year": 2024,
+      "team": 1,
+      "platforms": [
+        {
+          "title": "AWS",
+          "appendix": "amazonwebservices",
+          "url": "https://aws.amazon.com"
+        }
+      ],
+      "stack": [
+        {
+          "title": "Python",
+          "appendix": "python"
+        },
+        {
+          "title": "GPT",
+          "appendix": "openai",
+          "url": "https://openai.com/api/"
+        },
+        {
+          "title": "Whisper",
+          "appendix": "openai",
+          "url": "https://github.com/openai/whisper"
+        },
+        {
+          "title": "Zoom",
+          "appendix": "zoom",
+          "url": "https://developers.zoom.us/docs/api/"
+        },
+        {
+          "title": "Notion",
+          "appendix": "notion",
+          "url": "https://developers.notion.com"
+        }
+      ],
+      "description": "In order to keep the records of my community developed a script that dowloads Zoom recordings, transcribes them, summarises through GPT and uploads to the correct event in Notion.",
+      "screenshots": {
+        "directory": "./src/assets/screenshots//",
+        "quantity": 0,
+        "format": ".png"
+      }
+    }
+  ]
+}

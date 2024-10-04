@@ -1,0 +1,32 @@
+.root {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+  margin-left: 0px;
+  border: 1px dotted #420420;
+  border-radius: 30px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.icon {
+  margin: 0px 5px 0px 0px;
+  display: 'inline-flex';
+}
+
+$size: 15px;
+
+.iconText {
+  font-size: $size;
+  white-space: nowrap;
+
+}
+.iconImg {
+  width: $size;
+  height: $size;
+}
+.link {
+  display: grid;
+}

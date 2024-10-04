@@ -1,0 +1,50 @@
+.root {
+  border-radius: 20px;
+  max-width: 100vw;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.42);
+  margin-bottom: 30px;
+}
+.description {
+  max-width: 600px;
+  text-align: start;
+}
+.stack {
+  margin: 0px;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  align-items: start;
+  overflow: auto;
+  flex-wrap: nowrap;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  min-height: 25px;
+}
+.carousel {
+  width: 30%;
+}
+.text {
+  padding-right: 15px;
+  padding-left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 3%;
+}
+.centered {
+  justify-content: center;
+  display: flex;
+}
+.testflight {
+  font-weight: 600;
+  font-size: 120%;
+  text-align: end;
+}
+.trailing {
+  text-align: end;
+}

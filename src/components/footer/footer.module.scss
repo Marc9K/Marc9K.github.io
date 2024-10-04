@@ -1,0 +1,23 @@
+$tifany-blue: rgba(10, 186, 181, 0.42);
+
+.root {
+  background-color: $tifany-blue;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.main-points {
+  justify-items: start;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.socials {
+  display: flex;
+  flex-direction: column;
+}
