@@ -6,8 +6,7 @@
       "team": 1,
       "platforms": [
         {
-          "title": "Windows",
-          "appendix": "windows10"
+          "title": "Windows"
         },
         {
           "title": "Android™",
@@ -30,8 +29,7 @@
           "url": "https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/"
         },
         {
-          "title": "C#",
-          "appendix": "csharp"
+          "title": "C#"
         },
         {
           "title": "Flutter",
@@ -195,8 +193,7 @@
           "appendix": "macos"
         },
         {
-          "title": "Windows",
-          "appendix": "windows10"
+          "title": "Windows"
         }
       ],
       "stack": [
@@ -423,8 +420,7 @@
       ],
       "stack": [
         {
-          "title": "C#",
-          "appendix": "csharp"
+          "title": "C#"
         },
         {
           "title": "Blazor",
