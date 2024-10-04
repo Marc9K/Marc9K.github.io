@@ -1,0 +1,31 @@
+platform = new Mapping {
+    ["macOS"] {
+        title = "macOS"
+        appendix = "macos"
+    }
+    ["iOS"] {
+        title = "iOS"
+        appendix = "ios"
+    }
+    // https://partnermarketinghub.withgoogle.com/brands/android/legal-and-trademarks/legal-requirements/
+    ["android"] {
+        title = "Android™"
+        appendix = "android"
+    }
+    ["web"] {
+        title = "WEB"
+        appendix = "htmx"
+    }
+    ["windows"] {
+        title = "Windows"
+        appendix = "windows10"
+    }
+    ["aws"] {
+        title = "AWS"
+        appendix = "amazonaws"
+    }
+    ["telegram"] {
+        title = "Telegram"
+        appendix = "telegram"
+    }
+}
