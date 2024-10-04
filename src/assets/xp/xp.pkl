@@ -18,7 +18,7 @@ hidden platform = new Mapping {
     }
     ["windows"] {
         title = "Windows"
-        // appendix = "windows10"
+        appendix = " "
     }
     ["aws"] {
         title = "AWS"
@@ -170,6 +170,7 @@ hidden technology = new Mapping {
     }
     ["c"] {
         title = "C#"
+        appendix = " "
     }
     ["spring"] {
         title = "Spring Boot"
